@@ -1,0 +1,14 @@
+.img__envios{
+    width: $publi_envios;
+}
+
+.img__lineas{
+    width: 400px;
+    transition: all 2s;
+
+
+    &:hover{
+    border: $borde_imagen;
+    transform: scale(1.3);
+    }
+}

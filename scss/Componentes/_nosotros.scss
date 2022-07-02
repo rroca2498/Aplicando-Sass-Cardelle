@@ -1,0 +1,22 @@
+.caja__texto{
+    border: $borde_imagen;
+
+
+    &:hover{
+    background-color: $color_texto;
+    border: $borde_imagen_grueso;
+    }
+}
+
+.logos__RR{
+    width: 500px;
+}
+
+.logo__RR__viejo{
+    transition: all 3s;
+
+    &:hover{
+    transform: scale(2);
+    opacity: 0;
+    }
+}

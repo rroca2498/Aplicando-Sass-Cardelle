@@ -1,0 +1,9 @@
+.caja__texto{
+    border: $borde_imagen;
+
+
+    &:hover{
+    background-color: $color_texto;
+    border: $borde_imagen_grueso;
+    }
+}
