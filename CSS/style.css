@@ -6,6 +6,10 @@
   width: 35px;
 }
 
+footer {
+  background-color: rgb(231, 231, 231) !important;
+}
+
 .img__envios {
   width: 500px;
 }
