@@ -3,8 +3,8 @@
 }
 
 .img__lineas{
-    width: 400px;
-    transition: all 2s;
+    @extend %size_lineas;
+    @extend %transition_lineas;
 
 
     &:hover{

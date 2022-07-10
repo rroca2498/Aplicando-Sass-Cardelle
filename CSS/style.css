@@ -1,3 +1,11 @@
+.img__lineas {
+  width: 400px;
+}
+
+.img__lineas {
+  transition: all 2s;
+}
+
 .fondo__blanco {
   background-color: #d6f3ff !important;
 }
@@ -18,10 +26,6 @@ footer {
   width: 500px;
 }
 
-.img__lineas {
-  width: 400px;
-  transition: all 2s;
-}
 .img__lineas:hover {
   border: 4px solid black;
   transform: scale(1.3);

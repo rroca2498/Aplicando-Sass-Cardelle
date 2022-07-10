@@ -1,7 +1,8 @@
-@import 'Variables/variables';
-@import 'Variables/mapas';
-@import 'Variables/colores';
-@import 'Variables/mixins';
+@import 'Bases/variables';
+@import 'Bases/mapas';
+@import 'Bases/colores';
+@import 'Bases/mixins';
+@import 'Bases/extends';
 @import 'Componentes/header';
 @import 'Componentes/footer';
 @import 'Componentes/index';
