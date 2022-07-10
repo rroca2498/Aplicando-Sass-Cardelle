@@ -1,5 +1,9 @@
 .fondo__blanco {
-  background-color: white !important;
+  background-color: #d6f3ff !important;
+}
+
+.nav-link:hover {
+  color: #3fc5fd !important;
 }
 
 .logos__redes {
@@ -52,9 +56,14 @@ footer {
 }
 
 .Img__marcas {
-  border: 4px solid black;
+  border: 1px solid black;
 }
 
+@media screen and (max-width: 1400px) {
+  .Img__marcas {
+    width: 10rem;
+  }
+}
 .borde_contacto {
   border: 4px solid black;
   display: flex;

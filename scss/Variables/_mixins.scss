@@ -1,0 +1,5 @@
+@mixin apareceLogo ($x, $y){
+
+    transform: scale($x);
+    opacity: $y;
+}
