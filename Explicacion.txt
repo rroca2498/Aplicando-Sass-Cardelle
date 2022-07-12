@@ -1,0 +1,13 @@
+El 9 de julio se le agrego el SEO la sitio, en todas las páginas. También se arregló el footer según lo que me dijiste Fernando.
+
+En el primer commit del 10 de Julio se agregaron colores, un mapa y un mixin. Luego después en otro commit se agrego extend que me había faltado.
+
+El mixin lo use para la animación de los logos en la página “nosotros”.
+
+El mapa lo use para la página “marcas” para modificar las imágenes.
+
+Los colores se uso para modificar el header (el hover sobre el menú).
+
+En el ultimo commit use el extend para las animaciones de las líneas en la pagina “index”
+
+
